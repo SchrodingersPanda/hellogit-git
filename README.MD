@@ -13,6 +13,7 @@ Underline 1
 Underline 2
 ===========
 
+# Formatos de énfasis
 *Italics 1*
 
 _Italics 2_
@@ -22,3 +23,21 @@ _Italics 2_
 __Bold 2__
 
 ~~crossed~~
+
+# Listas
+
+Lista ordenada
+
+1. Item 1
+1. Item 2
+1. Item 3
+
+Lista desordenada
+
+- Item 1
+- Item 2
+- Item 3
+
+# Links
+
+- [Esto es un link en markdown](http://google.com)
