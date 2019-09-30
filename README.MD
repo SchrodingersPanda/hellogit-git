@@ -41,3 +41,7 @@ Lista desordenada
 # Links
 
 - [Esto es un link en markdown](http://google.com)
+
+# Imágenes
+
+![logo](https://tinyurl.com/y6x2oltj)
